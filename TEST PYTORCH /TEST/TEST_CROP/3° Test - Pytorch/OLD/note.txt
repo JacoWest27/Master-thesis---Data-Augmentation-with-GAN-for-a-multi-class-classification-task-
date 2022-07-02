@@ -1,0 +1,9 @@
+IPER-PARAMETRI 
+- BS : 64 
+- EPOCHS : 100 
+- LR : 10^-3 
+- OPT : SGD, MOMENTUM : 0.8 , WEIGHT DECAY : 1e-5
+
+IMMAGINI: CROP 
+
+NOTA: Manca i valori di Correlazione di Cramer (bisogna adattare il codice) 
